@@ -1,0 +1,12 @@
+/* creazione logo iniziale */
+.pattern {
+    height: 150px;
+    background-color: blue;
+    background-image: url(../img/pattern.png);
+    text-align: center;
+}
+.logo {
+    height: 200px;
+    width: 200px;
+    padding: 100px;
+}
