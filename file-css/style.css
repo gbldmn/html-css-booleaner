@@ -1,7 +1,13 @@
 /* creazione logo iniziale */
+
+.main {
+    margin: auto;
+    max-width: 80%;
+    
+}
 .pattern {
     height: 150px;
-    background-color: blue;
+    background-color: cornflowerblue;
     background-image: url(../img/pattern.png);
     text-align: center;
 }
@@ -9,4 +15,42 @@
     height: 200px;
     width: 200px;
     padding: 100px;
+
+}
+/* tabella */
+
+
+.tabella {
+    background-color:cornflowerblue;
+}
+.tabella-2 {
+    background-color: aqua;
+    width: 50%;
+}
+.tabella-3 {
+    background-color: aqua;
+}
+
+/* titolo finale */
+
+.interessi {
+    color: gray;
+}
+
+/* img finali */
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+}
+
+.graph {
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+}
+spam {
+    color: white;
+    padding: 70px;
 }
